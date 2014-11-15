@@ -1,0 +1,1 @@
+javac -d bin -Xlint src/edu/mccc/cos210/fp2014/col/server/*.java src/edu/mccc/cos210/fp2014/col/server/objects/*.java src/edu/mccc/cos210/fp2014/col/server/users/*.java src/edu/mccc/cos210/fp2014/col/server/whiteboard/*.java 
